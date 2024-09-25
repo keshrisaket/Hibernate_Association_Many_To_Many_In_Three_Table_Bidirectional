@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Hibernate-Association-Many-To-Many-In-Two-Table-Bidirectional" />
+        <module name="Hibernate_Association_One_To_Many_In_Two_Table_Unidirectional" />
+        <module name="Hibernate_Association_One_To_Many_In_Two_Table_Bidirectional" />
+        <module name="Hibernate-Association-Many-To-One-In-Two-Table-Bidirectional" />
+        <module name="Hibernate-Association-Many-To-Many-In-Three-Table-Bidirectional" />
+        <module name="Hibernate-Association-Many-To-One-In-Two-Table-Unidirectional" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
