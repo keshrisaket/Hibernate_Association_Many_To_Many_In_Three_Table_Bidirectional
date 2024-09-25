@@ -1,0 +1,2 @@
+# Hibernate_Association_Many_To_Many_In_Three_Table_Bidirectional
+Hibernate_Association_Many_To_Many_In_Three_Table_Bidirectional
